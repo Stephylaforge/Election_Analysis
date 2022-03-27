@@ -42,6 +42,9 @@ The purpose of analysis is to complete the audit of the Colorado Board of Electi
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
+## Election Text Snippet
+![image](https://user-images.githubusercontent.com/98365309/160291186-dc79ddb8-08ee-437f-8114-5790cb98862c.png)
+
 ## Election Audit Summary
 The script was modified to update the election votes by candidate and adding in the county majority as well. By adjusting the code to 
 now include the county data it could include the results for what county had the highest outcome of votes. This will be an easy way to make changes to track any of the data on the csv file due to the fact the candidate script and the county script is almost the same with
