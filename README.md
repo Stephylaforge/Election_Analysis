@@ -6,12 +6,12 @@ The written analysis has the following:
 ## Overview of Election Audit
 1. The total count of votes
 2. List the following
-  - Candidates
-  - County
-  - Winning Summary for each Candidate
-  - Winning Summary for each County
-  - Winning Percentage for each Candidate
-  - Winning Summary for each Coutny
+    - Candidates
+    - County
+    - Winning Summary for each Candidate
+    - Winning Summary for each County
+    - Winning Percentage for each Candidate
+    - Winning Summary for each Coutny
 3. Determine a winner based on the outcomes
 
 ## Purpose
